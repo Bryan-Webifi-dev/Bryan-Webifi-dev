@@ -1,59 +1,26 @@
-# Bryan-Webifi-dev
+<div align="left">
 
-### Full-Stack Developer | TypeScript Enthusiast | UI/UX Advocate
+<div align="center" style="margin-top: 20px;">
+  
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Webifi-dev&theme=vue-dark&hide_border=true)
 
-I'm a full-stack developer with a strong focus on creating high-quality, scalable web applications. My expertise lies in modern JavaScript frameworks, efficient code architecture, and delivering exceptional user experiences. I thrive in collaborative environments and am always looking for opportunities to contribute to impactful projects.
+</div>
 
----
+<div align="center" style="margin-top: 20px;">
 
-## Skills
+[![Email](https://img.shields.io/badge/Email-bryan%40webifyservices.ai-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan@webifyservices.ai)
+[![Discord](https://img.shields.io/badge/Discord-chiptherip-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/chiptherip#2490)
 
-- **Languages:** TypeScript, JavaScript, Python
-- **Front-End:** React, Next.js, Chakra UI
-- **Back-End:** Node.js, Express, RESTful APIs
-- **DevOps:** Docker, GitHub Actions, CI/CD
-- **Tools:** VS Code, Git, Webpack, ESLint
+</div>
 
----
+<div align="center" style="margin-bottom: 20px;">
+  
+| <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript Icon" width="48" height="48"/> <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="48" height="48"/> <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="48" height="48"/> <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Icon" width="48" height="48"/> <br> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | <img src="https://img.icons8.com/color/48/000000/chakra-ui.png" alt="Chakra UI Icon" width="48" height="48"/> <br> ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) |
+|---|---|---|---|---|
+| <div align="center"><img src="https://imgs.search.brave.com/07-B5auBdloO_v212n4US8FZ7P-YhfbP9swW8HQ7pQg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWZyYW1lci0yMjk2/MDY4LTE5MTIwMjcu/cG5nP2Y9d2VicCZ3/PTI1Ng" alt="Framer Motion Icon" width="48" height="48"/> <br> ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)</div> | <div align="center"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL Icon" width="48" height="48"/> <br> ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)</div> | <div align="center"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Icon" width="48" height="48"/> <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)</div> | <div align="center"><img src="https://img.icons8.com/color/48/000000/cloudflare.png" alt="Cloudflare Icon" width="48" height="48"/> <br> ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)</div> | <div align="center"><img src="https://imgs.search.brave.com/TSrDbNBlWUcocw7UTt38SAkmg1BvL4Dk1JP7VYo8FgU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9haS5s/cy9hc3NldHMvb3Bl/bmFpLWxvZ29zL1BO/R3Mvb3BlbmFpLXdo/aXRlLWxvZ29tYXJr/LnBuZw" alt="OpenAI Icon" width="48" height="48"/> <br> ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)</div> |
 
-## Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Webifi-dev&theme=default&count_private=true)
-
-
----
-
-## Projects
-
-### [Project Name 1](https://github.com/Bryan-Webifi-dev/project1) *(Link to Repository)*
-A brief, impactful description of the project. Highlight your role, the technologies used, and any notable outcomes or achievements.
-
-### [Project Name 2](https://github.com/Bryan-Webifi-dev/project2) *(Link to Repository)*
-Another concise description that showcases a key project. Focus on the problem solved, your contribution, and the technologies employed.
-
----
-
-## Contact
-
-- **LinkedIn:** [linkedin.com/in/Bryan-Webifi-dev](https://linkedin.com/in/Bryan-Webifi-dev)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
----
-
-*Let's build something exceptional together.*
+</div>
+</div>
 
 
-<!--
-**Bryan-Webifi-dev/Bryan-Webifi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
