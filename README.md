@@ -1,28 +1,13 @@
-<div align="left">
+
 
 <div align="center" style="margin-top: 20px;">
-
-[![Email](https://img.shields.io/badge/Email-bryan%40webifyservices.ai-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan@webifyservices.ai)
-[![Discord](https://img.shields.io/badge/Discord-chiptherip-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/chiptherip#2490)
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Webifi-dev&theme=vue-dark&hide_border=true)
-
+ 
+  ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Webifi-dev&theme=vue-dark&hide_border=true)
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
   
-| <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="48" height="48"/> <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript Icon" width="48" height="48"/> <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon" width="48" height="48"/> <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Icon" width="48" height="48"/> <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="48" height="48"/> <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-|---|---|---|---|---|
-| <div align="center"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL Icon" width="48" height="48"/> <br> ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)</div> | <div align="center"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Icon" width="48" height="48"/> <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)</div> | <div align="center"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Icon" width="48" height="48"/> <br> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)</div> | <div align="center"><img src="https://imgs.search.brave.com/07-B5auBdloO_v212n4US8FZ7P-YhfbP9swW8HQ7pQg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWZyYW1lci0yMjk2/MDY4LTE5MTIwMjcu/cG5nP2Y9d2VicCZ3/PTI1Ng" alt="Framer Motion Icon" width="48" height="48"/> <br> ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)</div> | <div align="center"><img src="https://img.icons8.com/color/48/000000/chakra-ui.png" alt="Chakra UI Icon" width="48" height="48"/> <br> ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)</div> |
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
-
-</div>
-
-
 
