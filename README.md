@@ -1,15 +1,15 @@
 <div align="left">
 
 <div align="center" style="margin-top: 20px;">
-  
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Webifi-dev&theme=vue-dark&hide_border=true)
+
+[![Email](https://img.shields.io/badge/Email-bryan%40webifyservices.ai-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan@webifyservices.ai)
+[![Discord](https://img.shields.io/badge/Discord-chiptherip-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/chiptherip#2490)
 
 </div>
 
 <div align="center" style="margin-top: 20px;">
-
-[![Email](https://img.shields.io/badge/Email-bryan%40webifyservices.ai-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan@webifyservices.ai)
-[![Discord](https://img.shields.io/badge/Discord-chiptherip-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/chiptherip#2490)
+  
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Webifi-dev&theme=vue-dark&hide_border=true)
 
 </div>
 
